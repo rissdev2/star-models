@@ -5,7 +5,7 @@ const Cooperation = () => {
     <>
       <div className="flex">
         <div className="basis-1/2">
-          <div class="sticky top-0 mx-auto flex px-5 py-24 items-center justify-center flex-col">
+          <div class="sticky top-[20%] mx-auto flex px-5 py-24 items-center justify-center flex-col">
             <div class="text-start flex items-center gap-7 lg:w-4/5 w-full">
               <img src="assets/img/experience.png" alt="" />
               <div>
@@ -42,10 +42,10 @@ const Cooperation = () => {
             <p className="text-lg text-white ">Exemplary</p>
           </div>
           <h1 className="sm:text-4xl lg:text-7xl text-xl mb-3 lg:mb-8 font-thin text-white uppercase mt-10">Cooperation</h1>
-          <img src="assets/img/pt-1.svg" className="w-4/5" alt="" />
-          <img src="assets/img/pt-2.svg" className="w-4/5" alt="" />
-          <img src="assets/img/pt-3.svg" className="w-4/5" alt="" />
-          <img src="assets/img/pt-4.svg" className="w-4/5" alt="" />
+          <img src="assets/img/pt-1.svg" className="w-4/5 mt-12" alt="" />
+          <img src="assets/img/pt-2.svg" className="w-4/5 mt-12" alt="" />
+          <img src="assets/img/pt-3.svg" className="w-4/5 mt-12" alt="" />
+          <img src="assets/img/pt-4.svg" className="w-4/5 mt-12" alt="" />
         </div>
         </div>
       </div>
