@@ -7,13 +7,13 @@ const Hero = () => {
           <Slider />
           <section class="text-white items-center bg-transparent  body-font">
   <div class=" mx-auto flex px-5 py-24 items-center justify-center flex-col">
-    <img class="lg:w-full md:w-3/6 w-5/6 mb-10 object-cover object-center rounded absolute top-24 z-20 " alt="hero" src="assets/img/girl.png" />
-    <div class="text-center lg:w-4/5 w-full absolute top-[75%] z-30">
-      <h1 class="title-font sm:text-4xl lg:text-7xl text-3xl mb-8 font-thin text-white uppercase">Your reliable <span className='font-bold text-[#008CDB]'>model agency</span> </h1>
-      <p class="leading-relaxed sm:text-xl lg:text-2xl text-3xl mb-8 font-lato font-normal">With experience and unparalleled service, we make your shooting or event a success.</p>
+    <img class="lg:w-full md:w-3/6 w-5/6 mb-10 object-cover object-center rounded absolute top-56 lg:top-24 z-20 " alt="hero" src="assets/img/girl.png" />
+    <div class="text-center lg:w-4/5 w-full absolute top-[40%] lg:top-[75%] z-30">
+      <h1 class="title-font sm:text-4xl lg:text-7xl text-xl mb-3 lg:mb-8 font-thin text-white uppercase">Your reliable <span className='font-bold text-[#008CDB]'>model agency</span> </h1>
+      <p class="leading-relaxed sm:text-base lg:text-2xl text-sm mb-8 font-lato font-normal">With experience and unparalleled service, we make your shooting or event a success.</p>
       <div class="flex items-center">
       <div className='basis-1/3'>
-        <ul className='flex gap-4'>
+        <ul className='flex gap-2 lg:gap-4'>
           <li><img src="assets/img/twitter.png" alt="" /></li>
           <li><img src="assets/img/facebook.png" alt="" /></li>
           <li><img src="assets/img/pinterst.png" alt="" /></li>

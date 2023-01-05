@@ -31,7 +31,7 @@ export default function Slider() {
           clickable: true,
         }}
         modules={[Autoplay, FreeMode , Navigation]}
-        className=" mt-40 mySwiper"
+        className="mt-16 lg:mt-40 mySwiper"
       >
         <SwiperSlide>
           <img src="assets/img/1.png" alt="" />
